@@ -1,8 +1,7 @@
-package fr.idmc.raizo;
 
 import java.io.Console;
 
-public class LauncherSkeleton {
+public class Launcher {
     
     public void run() throws Exception {
          
