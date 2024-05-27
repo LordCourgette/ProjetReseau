@@ -16,7 +16,7 @@ répartition du travail au sein de l'équipe.
 ### Etape 1:
 Clone le projet dans le répertoire de votre choix.
 ### Etape 2:
-Ce rendre dans ./ProjetWEB/reseau
+Ce rendre dans ./ProjetReseau/reseau
 ### Etape 3:
 Compiler le projet 
 ```bash
