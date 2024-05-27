@@ -16,7 +16,7 @@ répartition du travail au sein de l'équipe.
 ### Etape 1:
 Clone le projet dans le répertoire de votre choix.
 ### Etape 2:
-Ce rendre dans ./ProjetReseau/reseau
+Se rendre dans ./ProjetReseau/reseau
 ### Etape 3:
 Compiler le projet 
 ```bash
@@ -32,7 +32,7 @@ Instancier les clients
 ```bash
 java -cp build/classes Client
 ```
-Dans autant de terminal que vous souhaitez avoir de client.
+Dans autant de terminaux que vous souhaitez avoir de client.
 ### Etape 6:
 Lancer une résolution
 Dans le terminal d'execution du serveur, entrer la commande :
